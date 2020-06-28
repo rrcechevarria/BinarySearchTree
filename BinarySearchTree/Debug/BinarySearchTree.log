@@ -1,0 +1,3 @@
+﻿  BinarySearchTree.cpp
+C:\Users\v-rieche\Documents\Practice Code\BinarySearchTree\BinarySearchTree\BinarySearchTree.cpp(65): warning C4715: 'Search': not all control paths return a value
+  BinarySearchTree.vcxproj -> C:\Users\v-rieche\Documents\Practice Code\BinarySearchTree\Debug\BinarySearchTree.exe
